@@ -1,0 +1,11 @@
+bar
+saloon
+home
+park
+mall
+theater
+casino
+restaurant
+company
+college
+starbucks
